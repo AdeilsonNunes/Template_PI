@@ -4,15 +4,15 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Inova Saúde
 
-## Nome do Grupo
+## Inova Saúde
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="">Adeilson Nunes da Costa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Daniela Giacomo Pauzer</a>, <a href="https://www.linkedin.com/in/victorbarq/">Enzo Sangiacomo Duela de Andrade/a>, <a href="https://www.linkedin.com/in/victorbarq/">Luiza Domingues Chaveiro Correia </a>, <a href="https://www.linkedin.com/in/victorbarq/">/a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
-## Descrição
+##  O projeto será um site para a área de saúde que focará, além das coisas mais comuns do setor, em educação a respeito da saúde. Além disso, ele contará com um sistema integrado de convênios que tem cobertura para o hospital.
 
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
@@ -20,12 +20,9 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+O projeto será um sistema web que se adaptará no mobile e no desktop. O sistema funcinará para a área de saúde que focará, além das coisas mais comuns do setor, em educação a respeito da saúde. Além disso, ele contará com um sistema integrado de convênios que tem cobertura para o hospital. A homepage do site terá botões de acesso rápido para os principais serviços, além de botão para pesquisa rápida. Terá também um feed com imagens que estarão relacionadas às campnhas mensais de saúde e serão links para matérias completas sobre prevenção e cuidados.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+
 
 ## 🛠 Estrutura de pastas
 
